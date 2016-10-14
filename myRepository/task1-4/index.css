@@ -1,0 +1,28 @@
+.main{
+    background-color: aliceblue;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-top: -100px;
+    /*right: 0;*/
+    top:50%;
+    margin-left: -200px;
+    /*bottom: 0;*/
+
+}
+.left{
+    width: 50px;
+    height: 50px;
+    border-radius: 0 0 50px 0px;
+    background-color: antiquewhite;
+}
+.right{
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+    border-radius: 50px 0 0 0 ;
+}
